@@ -1,0 +1,68 @@
+h1 {
+    color: Blue;
+    font-family:spicy rice, cursive;
+    font-size: 80px;
+}
+h2 {
+    color: orange;
+    font-family:anton,san-serif;
+    font-size: 40px;
+}
+p {
+    color: Purple;
+    font-size: 40px;
+}
+h3 { 
+    color:Blue;
+    font-size: 40px;
+    font-family:anton,san-serif ;
+}
+h4 {
+    color: orange;
+    font-size: 40px;
+    font-family:anton,san-serif;
+}
+h5 {
+    color: blue;
+    font-size: 40px;
+    font-family:anton,san-serif;
+}
+h6 {
+    color:Orange;
+    font-size:40px;
+    font-family:anton,san-serif;
+}
+img {
+    width:330px;
+    height:400px;
+    border:double;
+}
+body {
+    background-image:url("http://johnjohnston.info/106/wp-content/uploads/2013/08/The_unicorn_in_Motion-anim.gif");
+    background-attachment: fixed;
+    text-align: center;
+}
+.lame{
+    color:Brown;
+}
+.cool{ 
+    color: green;
+}
+.bad{
+    color:#29E17E;
+}
+.good{
+    color:#2960E1;
+}
+.decent{
+    color:#8B29E1;
+}
+.gr8{
+    color:#E129BC;
+}
+.nah{
+    color:#E12972;
+}
+.yur{
+    color:#E12929;
+}
